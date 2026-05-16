@@ -17,7 +17,7 @@ To deeply understand computer architecture by building every component by hand �
 | # | Project | Status |
 |---|---------|--------|
 | 01 | Full Adder | ✅ Done |
-| 02 | ALU | 🔄 Coming soon |
+| 02 | ALU | ✅ Done |
 | 03 | RISC-V CPU (Single-Cycle) | 🔄 Coming soon |
 | 04 | RISC-V CPU (Pipelined) | 🔄 Coming soon |
 | 05 | Memory System | 🔄 Coming soon |
